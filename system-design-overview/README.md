@@ -1,7 +1,6 @@
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
-
+**Table of Contents**  
 - [System Design](#system-design)
     - [Main points](#main-points)
   - [importance of system design](#importance-of-system-design)
@@ -14,7 +13,7 @@
 - [Resources for Further Learning](#resources-for-further-learning)
   - [Summary of the System Design Primer Guide](#summary-of-the-system-design-primer-guide)
 
-<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 
 # System Design  
 System design is a step-by-step process of defining a particular software's architecture, modules, components, etc. It is a base concept in software engineering and is vital in building scalable and reliable software.  
